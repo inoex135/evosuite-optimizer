@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.inoex135.evosuiteoptimizer.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.inoex135.evosuiteoptimizer.MyBundle
 
 class MyProjectService(project: Project) {
 
